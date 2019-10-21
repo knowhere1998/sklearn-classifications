@@ -27,7 +27,7 @@ _First, check if you already have it installed or not_.
 ~~~~
 python --version
 ~~~~
-_If you don't have python 3 in your computer you can use the code below_:
+_If you don't have python in your computer you can use the code below_:
 ~~~~
 sudo apt-get update
 sudo apt-get install python
@@ -44,5 +44,5 @@ sudo apt install python-pip
 ~~~~
 _You should check and update your pip_:
 ~~~~
-pip3 install --upgrade pip
+pip install --upgrade pip
 ~~~~
